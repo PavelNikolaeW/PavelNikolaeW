@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Web developer from Russia</h3>
 
+<p align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)</p>
+
 <p align="left">
   <a href="https://github.com/alejandroatacho">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pavelnikolaew&layout=compact&langs_count=12&theme=midnight-purple"/>
